@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm an Aspiring Data Analyst 👋
+Transitioning from Travel Industry to Data Analytics
+Welcome to my GitHub profile!
 
-<!--
-**PraveenKData/PraveenKData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I come from a professional background in the travel industry and am currently pursuing a Data Analytics course at Entri. I am building my analytical and technical skills to explore how data can help businesses make better decisions.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+🎓 Currently learning Data Analytics at Entri
+✈️ Previous professional background in the travel industry
+📊 Interested in business insights, customer trends, and data-driven decision-making
+🌱 Building my knowledge of data analysis step by step
+🎯 Working towards a career in data analytics
+🛠️ Skills I'm Learning
+Excel: Data cleaning, formulas, and analysis
+SQL: Database queries and data extraction
+Python: Data analysis and manipulation
+Power BI: Data visualization and dashboards
+📂 My Projects
+I am currently building my data analytics skills. I will add practical projects here as I progress through my learning journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Planned project areas:
+
+Travel Booking and Sales Analysis
+Customer Trend Analysis
+Business Performance Dashboards
+🌟 My Career Goal
+My goal is to combine my previous industry experience with data analytics skills to uncover meaningful insights, solve business problems, and support data-driven decisions.
+
+🤝 Let's Connect
+I welcome opportunities to learn, collaborate, and grow in the field of data analytics.
+
+Thank you for visiting my profile!
